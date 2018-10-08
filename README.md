@@ -12,6 +12,14 @@ Several textbooks can also be used for reference, including (but not limited to)
 To supplement the theory content in above materials, we will also learn Python with [TensorFlow](https://www.tensorflow.org/) (a computational library by Google, mainly for deep learning but is also a general purpose optimizer) with [TensorFlow Probability](https://github.com/tensorflow/probability) (a library for probabilistic reasoning and statistical analysis in TensorFlow). The example code will be maintained in this GitHub repository. 
 
 Schedule:
-* 10/12 (Fri, 12nn): 
-  - Theory: Probability review, Bayes rule, conjugate priors
-  - Practical: Basic Python and Introduction to TensorFlow
+* 10/19 (Fri, 12nn): 
+  - Theory: Probability review, Bayes rule, conjugate priors (Lecture 1 of Notes)
+  - Practical: Introduction to Python
+
+* 11/2 (Fri, 12nn): 
+  - Theory: Bayesian linear regression, Bayes classifiers, predictive distributions (Lecture 2 of Notes)
+  - Practical: Introduction to TensorFlow
+  
+* 11/16 (Fri, 12nn):
+  - Theory: 
+  - Practical: 
