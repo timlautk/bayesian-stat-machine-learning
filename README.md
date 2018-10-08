@@ -13,5 +13,5 @@ To supplement the theory content in above materials, we will also learn Python w
 
 Schedule:
 * 10/12 (Fri, 12nn): 
- - Theory: Probability review, Bayes rule, conjugate priors
- - Practical: Basic Python and Introduction to TensorFlow
+  -Theory: Probability review, Bayes rule, conjugate priors
+  -Practical: Basic Python and Introduction to TensorFlow
