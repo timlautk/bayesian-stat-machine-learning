@@ -13,4 +13,4 @@ To supplement the theory content in above materials, we will also learn Python w
 
 Schedule:
 * 10/12 (Fri, 12nn): 
-..*Probability review, Bayes rule, conjugate priors
+..Probability review, Bayes rule, conjugate priors
