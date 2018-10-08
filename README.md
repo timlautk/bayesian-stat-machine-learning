@@ -12,5 +12,5 @@ Several textbooks can also be used for reference, including (but not limited to)
 To supplement the theory content in above materials, we will also learn Python with [TensorFlow](https://www.tensorflow.org/) (a computational library by Google, mainly for deep learning but is also a general purpose optimizer) with TensorFlow Probability (a library for probabilistic reasoning and statistical analysis in TensorFlow). The example code will be maintained in this GitHub repository. 
 
 Schedule:
-..* 10/12 (Fri, 12nn): 
-....* Probability review, Bayes rule, conjugate priors
+* 10/12 (Fri, 12nn): 
+-- Probability review, Bayes rule, conjugate priors
