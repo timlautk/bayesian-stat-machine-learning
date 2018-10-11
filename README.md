@@ -13,11 +13,11 @@ To supplement the theory content in above materials, we will also learn Python w
 
 Schedule (tentative):
 * 10/16 (Tue, 3:30-5pm, Tim): 
-  - Theory: Probability review, Bayes rule, conjugate priors (Lecture 1 of Notes)
+  - Theory: Probability review, Bayes rule, conjugate priors (Lecture 1 of BMML Notes)
   - Practical: Introduction to Python
 
 * 10/23 (Tue, 3:30-5pm, Tim): 
-  - Theory: Bayesian linear regression, Bayes classifiers, predictive distributions (Lecture 2 of Notes)
+  - Theory: Bayesian linear regression, Bayes classifiers, predictive distributions (Lecture 2 of BMML Notes)
   - Practical: Introduction to TensorFlow
   
 * 11/6 (Tue, 3:30-5pm): 
