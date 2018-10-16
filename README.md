@@ -11,6 +11,10 @@ Several textbooks can also be used for reference, including (but not limited to)
 
 To supplement the theory content in above materials, we will also learn Python with [TensorFlow](https://www.tensorflow.org/) (a computational library by Google, mainly for deep learning but is also a general purpose optimizer) with [TensorFlow Probability](https://github.com/tensorflow/probability) (a library for probabilistic reasoning and statistical analysis in TensorFlow). The example code will be maintained in this GitHub repository. 
 
+Good references of Python (Scikit-Learn) and TensorFlow for machine learning, including (but not limited to):
+1. [Hands-On Machine Learning with Scikit-Learn & TensorFlow](https://github.com/ageron/handson-ml)
+
+
 Schedule (tentative):
 * 10/16 (Tue, 3:30-5pm, Tim): 
   - Theory: Probability review, Bayes rule, conjugate priors (Lecture 1 of BMML Notes)
