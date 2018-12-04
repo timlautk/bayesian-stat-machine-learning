@@ -23,7 +23,9 @@ Schedule (tentative):
 * 11/6 (Tue, 3:30-5pm, Tim): 
   - Theory: Bayesian linear regression, Bayes classifiers, predictive distributions (Lecture 2 of BMML Notes)
   - Practical: Introduction to TensorFlow
-  
-* 11/13 (Tue, 3:30-5pm): 
+ 
+ Paused, to be resumed in Winter 2019
+ 
+* TBD (Tue, 3:30-5pm): 
   - Theory: 
   - Practical: 
