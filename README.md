@@ -1,4 +1,4 @@
-# "Bayesian Statistics & Machine Learning" Reading Group at Northwestern Statistics
+# "Bayesian Statistics & Machine Learning" Working Group at Northwestern Statistics
 
 This page serves as a repository for resources of the 2018-2019 reading group "Bayesian Statistics & Machine Learning" at Department of Statistics at Northwestern University. In Fall 2021, this is set to be held weekly/bi-weekly (flexible) on Wednesday 2pm-3:30pm. 
 
