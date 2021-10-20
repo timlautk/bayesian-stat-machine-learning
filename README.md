@@ -14,5 +14,5 @@ We mainly focus on the statistical and computational perspectives of machine lea
 
 Schedule (tentative):
 * 10/20 (Wed, 2pm-3:30pm, Tim): 
-  - Optimization (part of Chapter 8 of PML book)
+  - Optimization (part of Chapter 8 of PML book); Google Colab example: https://colab.research.google.com/drive/151Gvo5-o2VE_CwU-q7Nhr27A4bCUvrw2?usp=sharing
  
