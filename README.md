@@ -20,4 +20,4 @@ Schedule (tentative):
   - Optimization (part of Chapter 8 of PML book); [Google Colab example](https://colab.research.google.com/drive/151Gvo5-o2VE_CwU-q7Nhr27A4bCUvrw2?usp=sharing)
   
  * 10/27 (Wed, 2pm-3:30pm, Tim): 
-  - Optimization (continued)
+    - Optimization (continued)
